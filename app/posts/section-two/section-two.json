@@ -1,0 +1,6 @@
+{
+  "tags": ["section-two"],
+  "eleventyNavigation": {
+    "parent": "Section two"
+  }
+}
