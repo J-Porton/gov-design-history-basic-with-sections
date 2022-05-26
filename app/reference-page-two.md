@@ -9,6 +9,7 @@ eleventyComputed:
     key: "{{ title }}"
     excerpt: "{{ description }}"
     parent: home
+    order: 2
 ---
 
 Body text goes here
