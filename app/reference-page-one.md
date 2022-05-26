@@ -83,6 +83,16 @@ Footnote [^1]
 
 `- [x] Task list item 1`
 
+Definition list
+
+term
+: definition
+
+```
+term
+: definition
+```
+
 --------
 
 ## TABLE
