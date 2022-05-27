@@ -6,11 +6,11 @@ related:
   items:
     - text: Prototype
       description: |
-        Username: `moj`
-        Password: `recall`
-      href: https://somewhere.com
-    - text: User needs
-      href: /support-for-apply/user-needs
+        Username: `username`
+        Password: `password`
+      href: https://#
+    - text: More content
+      href: /#
 pagination:
   data: collections.section-two
   reverse: true

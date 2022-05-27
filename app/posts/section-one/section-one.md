@@ -6,11 +6,11 @@ related:
   items:
     - text: Prototype
       description: |
-        Username: `apply`
-        Password: `bat`
-      href: https://support-for-apply-prototype.herokuapp.com
-    - text: User needs
-      href: /support-for-apply/user-needs
+        Username: `username`
+        Password: `password`
+      href: https://#
+    - text: More content
+      href: /#
 pagination:
   data: collections.section-one
   reverse: true
