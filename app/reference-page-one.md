@@ -13,7 +13,7 @@ eleventyComputed:
 ---
 
 ## What is this page about?
-The purpose of this page is to show the markdown supported by this toolkit. This toolkit is based off the excellent [https://bat-design-history.netlify.app/]('Become a teacher') design history created by the Deparment for Education team.
+The purpose of this page is to show the markdown supported by this toolkit. This toolkit is based off the excellent [https://bat-design-history.netlify.app/]('Become a teacher') design history created by the Department for Education team.
 
 ## HEADINGS
 
