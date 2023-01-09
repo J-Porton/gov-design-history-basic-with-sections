@@ -64,7 +64,7 @@
   },
   "devDependencies": {
     "markdownlint-cli": "^0.33.0",
-    "standard": "^16.0.3",
+    "standard": "^17.0.0",
     "webshot-node": "^0.18.2"
   },
   "standard": {
